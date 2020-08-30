@@ -44,6 +44,9 @@ public class HomePage extends base{
 		System.out.println("New comments");
 		System.out.println("New comments2");
 		System.out.println("New comments2");
+		
+		System.out.println("web app");
+		System.out.println("web app");
 		//WebElement Login = driver.findElement(By.xpath("//*[@id=\"homepage\"]/header/div[1]/div/nav/ul/li[4]/a"));
 		//Login.click();
 		LandingPage l=new LandingPage(driver);
