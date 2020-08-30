@@ -1,0 +1,9 @@
+12:20:52.308 [main] INFO  Resources.base - Navigated to Home page
+12:20:59.761 [main] ERROR Resources.base - Did it again!
+12:20:59.761 [main] TRACE Resources.base - Did it again!
+12:20:59.967 [main] INFO  Resources.base - Diver closed!
+12:37:11.116 [TestNG] INFO  Resources.base - Driver is initialized
+12:37:28.815 [TestNG] ERROR Resources.base - Did it again!
+12:37:28.820 [TestNG] TRACE Resources.base - Did it again!
+12:37:33.693 [TestNG] INFO  Resources.base - Diver closed!
+12:37:34.127 [TestNG] INFO  Resources.base - Navigated to Home page

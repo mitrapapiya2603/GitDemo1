@@ -1,0 +1,5 @@
+15:40:28.763 [TestNG] INFO  Resources.base - Driver is initialized
+15:41:19.306 [TestNG] INFO  Resources.base - Navigated to Home page
+15:41:20.113 [TestNG] ERROR Resources.base - Did it again!
+15:41:20.113 [TestNG] TRACE Resources.base - Did it again!
+15:41:32.316 [TestNG] INFO  Resources.base - Diver closed!

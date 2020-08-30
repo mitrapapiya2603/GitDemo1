@@ -1,0 +1,9 @@
+23:34:44.729 [main] INFO  Resources.base - Driver is initiated
+23:34:47.663 [main] INFO  Resources.base - Driver url invoked
+23:34:47.762 [main] INFO  Resources.base - Successfuly validated text
+23:34:55.137 [main] ERROR Resources.base - Did it again!
+23:34:55.137 [main] TRACE Resources.base - Did it again!
+23:34:55.367 [main] INFO  Resources.base - Diver closed!
+23:36:07.177 [TestNG] INFO  Resources.base - Driver is initiated
+23:36:37.813 [TestNG] ERROR Resources.base - Did it again!
+23:36:37.813 [TestNG] TRACE Resources.base - Did it again!
