@@ -44,6 +44,8 @@ public class HomePage extends base{
 		System.out.println("New comments");
 		System.out.println("New comments2");
 		System.out.println("New comments2");
+		System.out.println("New comments5");
+		System.out.println("New comments6");
 		
 		System.out.println("web app");
 		System.out.println("web app");

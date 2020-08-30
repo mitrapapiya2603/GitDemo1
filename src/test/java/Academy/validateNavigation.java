@@ -48,6 +48,11 @@ import pageObject.LandingPage;
 			Log.error("Did it again!");
 			Log.trace("Did it again!");
 		
+			System.out.println("New comments2");
+			System.out.println("New comments3");
+			System.out.println("New comments4");
+			
+			System.out.println("New comments5");
 			
 			
 		}
