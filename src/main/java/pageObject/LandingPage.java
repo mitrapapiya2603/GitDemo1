@@ -13,6 +13,7 @@ public class LandingPage {
 	By title= By.cssSelector("div.text-center");
 	By pageNavigation= By.cssSelector("ul.nav.navbar-nav.navbar-right");
 	
+	
 	public LandingPage(WebDriver driver) {
 		
 		this.driver=driver;
@@ -34,5 +35,5 @@ public class LandingPage {
 	{
 		return driver.findElement(pageNavigation);
 	}
-
+ 
 }

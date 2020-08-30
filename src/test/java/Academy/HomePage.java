@@ -41,6 +41,9 @@ public class HomePage extends base{
 		
 		driver.get(prop.getProperty("url"));
 		System.out.println("Link clicked");
+		System.out.println("New comments");
+		System.out.println("New comments2");
+		System.out.println("New comments2");
 		//WebElement Login = driver.findElement(By.xpath("//*[@id=\"homepage\"]/header/div[1]/div/nav/ul/li[4]/a"));
 		//Login.click();
 		LandingPage l=new LandingPage(driver);
